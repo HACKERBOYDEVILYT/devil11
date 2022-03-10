@@ -40,4 +40,4 @@
 	ls
         
         
-	python2 devil.py
+	python devil.py
